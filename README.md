@@ -2,7 +2,7 @@
 
 A production-ready, fully autonomous customer experience (CX) and support automation engine. Built using **Python**, **LangGraph**, and **OpenAI GPT-4o-mini**, hosted live via a **Streamlit** user interface.
 
-🌐 **Live Web Application Demo:** [https://streamlit.app](https://streamlit.app)
+🌐 **Live Web Application Demo:** [https://streamlit.app](https://autonomous-bpo-suite.streamlit.app/)
 
 ---
 
